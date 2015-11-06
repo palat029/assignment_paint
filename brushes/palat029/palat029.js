@@ -37,5 +37,6 @@ palat029.mouseReleased = function() {
 	ellipse(pmouseX + 37, pmouseY + 20, 10, 10);
 	ellipse(pmouseX + 20, pmouseY + 20, 10, 10);
 	fill(255, 255, 255);
-	ellipse(pmouseX + 25, pmouseY + 50, 20, 30);
+	ellipse(pmouseX + 25, pmouseY +
+		50, 20, 30);
 };
